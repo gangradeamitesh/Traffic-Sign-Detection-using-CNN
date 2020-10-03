@@ -7,7 +7,11 @@ Naturally, autonomous vehicles must also abide by road legislation and therefore
 
 ### The dataset is plit into training, test and validation sets, with the following characteristics:
 Images are 32 (width) x 32 (height) x 3 (RGB color channels)
+
 Training set is composed of 34799 images
+
 Validation set is composed of 4410 images
+
 Test set is composed of 12630 images
+
 There are 43 classes (e.g. Speed Limit 20km/h, No entry, Bumpy road, etc.)
